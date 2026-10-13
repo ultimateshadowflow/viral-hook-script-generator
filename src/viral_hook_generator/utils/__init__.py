@@ -1,0 +1,1 @@
+"""Utilities — small, pure, testable helpers."""
