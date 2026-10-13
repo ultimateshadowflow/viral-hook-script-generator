@@ -1,0 +1,10 @@
+[provider]
+name = "openai"
+model = "gpt-4o-mini"
+api_key_env = "OPENAI_API_KEY"
+timeout_s = 30.0
+max_retries = 3
+
+output_dir = "generated_hooks"
+default_hook_count = 8
+log_level = "INFO"
